@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+BotInstall/__init__.py
+BotInstall/__main__.py
+BotInstall/bot.py
+BotInstall.egg-info/PKG-INFO
+BotInstall.egg-info/SOURCES.txt
+BotInstall.egg-info/dependency_links.txt
+BotInstall.egg-info/requires.txt
+BotInstall.egg-info/top_level.txt
+BotInstall/resources/start.png

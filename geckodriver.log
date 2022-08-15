@@ -1,0 +1,240 @@
+1660580475207	geckodriver	INFO	Listening on 127.0.0.1:57329
+1660586602474	geckodriver	INFO	Listening on 127.0.0.1:58445
+1660586605534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilej3w814"
+1660586605944	Marionette	INFO	Marionette enabled
+1660586605948	Marionette	INFO	Listening on port 58465
+Read port: 58465
+1660586606268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilej3w814\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660586643920	Marionette	INFO	Stopped listening on port 58465
+1660586652532	geckodriver	INFO	Listening on 127.0.0.1:58537
+1660586655640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileysqww3"
+1660586655995	Marionette	INFO	Marionette enabled
+1660586656013	Marionette	INFO	Listening on port 58558
+Read port: 58558
+1660586656284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileysqww3\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660586732373	Marionette	INFO	Stopped listening on port 58558
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660586741028	geckodriver	INFO	Listening on 127.0.0.1:58644
+1660586744112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileIYtVQ9"
+1660586744468	Marionette	INFO	Marionette enabled
+1660586744471	Marionette	INFO	Listening on port 58663
+Read port: 58663
+1660586744702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileIYtVQ9\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660586749043	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1660586819025	Marionette	INFO	Stopped listening on port 58663
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660586824708	geckodriver	INFO	Listening on 127.0.0.1:58754
+1660586827784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileEES0Pt"
+1660586828106	Marionette	INFO	Marionette enabled
+1660586828109	Marionette	INFO	Listening on port 58775
+Read port: 58775
+1660586828327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileEES0Pt\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+[Parent 3224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660586915570	Marionette	INFO	Stopped listening on port 58775
+1660586958817	geckodriver	INFO	Listening on 127.0.0.1:58876
+1660586961921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilegKTQeW"
+1660586962270	Marionette	INFO	Marionette enabled
+1660586962273	Marionette	INFO	Listening on port 58896
+Read port: 58896
+1660586962516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilegKTQeW\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660587050570	geckodriver	INFO	Listening on 127.0.0.1:59012
+1660587053679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofile41hioz"
+1660587054006	Marionette	INFO	Marionette enabled
+1660587054011	Marionette	INFO	Listening on port 59030
+Read port: 59030
+1660587054292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofile41hioz\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660587230423	Marionette	INFO	Stopped listening on port 59030
+[Parent 18744, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileYst7T8"
+1660587153836	Marionette	INFO	Marionette enabled
+1660587153841	Marionette	INFO	Listening on port 59140
+Read port: 59140
+1660587153970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileYst7T8\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660587229531	Marionette	INFO	Stopped listening on port 59140
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660587263590	geckodriver	INFO	Listening on 127.0.0.1:59242
+1660587266640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilekVHq37"
+1660587266991	Marionette	INFO	Marionette enabled
+1660587266996	Marionette	INFO	Listening on port 59261
+Read port: 59261
+1660587267271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilekVHq37\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660587300387	Marionette	INFO	Stopped listening on port 59261
+1660587580079	geckodriver	INFO	Listening on 127.0.0.1:59401
+1660587583163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileXuETRQ"
+1660587583490	Marionette	INFO	Marionette enabled
+1660587583493	Marionette	INFO	Listening on port 59421
+Read port: 59421
+1660587583720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileXuETRQ\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660587635831	geckodriver	INFO	Listening on 127.0.0.1:59504
+1660587638933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileqymqku"
+1660587639283	Marionette	INFO	Marionette enabled
+1660587639287	Marionette	INFO	Listening on port 59522
+Read port: 59522
+1660587639515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileqymqku\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660587659624	Marionette	INFO	Stopped listening on port 59522
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660587768781	geckodriver	INFO	Listening on 127.0.0.1:59650
+1660587771904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilehzMpze"
+1660587772241	Marionette	INFO	Marionette enabled
+1660587772245	Marionette	INFO	Listening on port 59669
+Read port: 59669
+1660587772518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilehzMpze\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660587794469	Marionette	INFO	Stopped listening on port 59669
+1660587900899	geckodriver	INFO	Listening on 127.0.0.1:59751
+1660587904761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileBjEwZ0"
+1660587905108	Marionette	INFO	Marionette enabled
+1660587905112	Marionette	INFO	Listening on port 59773
+Read port: 59773
+1660587905350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileBjEwZ0\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+[Parent 11560, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1660587998441	Marionette	INFO	Stopped listening on port 59773
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660588015254	geckodriver	INFO	Listening on 127.0.0.1:59868
+1660588018340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilecCOyZ5"
+1660588018672	Marionette	INFO	Marionette enabled
+1660588018676	Marionette	INFO	Listening on port 59889
+Read port: 59889
+1660588018903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilecCOyZ5\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660588035496	Marionette	INFO	Stopped listening on port 59889
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660588055083	geckodriver	INFO	Listening on 127.0.0.1:59965
+1660588058123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofile1g2PWc"
+1660588058594	Marionette	INFO	Marionette enabled
+1660588058597	Marionette	INFO	Listening on port 59986
+Read port: 59986
+1660588058855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofile1g2PWc\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660588118936	Marionette	INFO	Stopped listening on port 59986
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660588126741	geckodriver	INFO	Listening on 127.0.0.1:60162
+1660588129847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileKrfdvz"
+1660588130290	Marionette	INFO	Marionette enabled
+1660588130294	Marionette	INFO	Listening on port 60183
+Read port: 60183
+1660588130529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileKrfdvz\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660588166290	Marionette	INFO	Stopped listening on port 60183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660588647107	geckodriver	INFO	Listening on 127.0.0.1:60436
+1660588650136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilecD1NT9"
+1660588650573	Marionette	INFO	Marionette enabled
+1660588650576	Marionette	INFO	Listening on port 60455
+Read port: 60455
+1660588650855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilecD1NT9\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660588681367	geckodriver	INFO	Listening on 127.0.0.1:60514
+1660588684422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileS8yNvE"
+1660588684775	Marionette	INFO	Marionette enabled
+1660588684779	Marionette	INFO	Listening on port 60535
+Read port: 60535
+1660588685040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileS8yNvE\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660588718622	Marionette	INFO	Stopped listening on port 60535
+1660588734400	geckodriver	INFO	Listening on 127.0.0.1:60609
+1660588737480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilezzhY56"
+1660588737844	Marionette	INFO	Marionette enabled
+1660588737848	Marionette	INFO	Listening on port 60625
+Read port: 60625
+1660588738081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilezzhY56\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660588753079	Marionette	INFO	Stopped listening on port 60625
+1660588897642	geckodriver	INFO	Listening on 127.0.0.1:60720
+1660588900705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileX3FQiS"
+1660588901049	Marionette	INFO	Marionette enabled
+1660588901053	Marionette	INFO	Listening on port 60740
+Read port: 60740
+1660588901282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileX3FQiS\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660588993057	Marionette	INFO	Stopped listening on port 60740
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660589007279	geckodriver	INFO	Listening on 127.0.0.1:60814
+1660589010361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileJVQGD7"
+1660589010717	Marionette	INFO	Marionette enabled
+1660589010721	Marionette	INFO	Listening on port 60834
+Read port: 60834
+1660589010954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileJVQGD7\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660589031771	Marionette	INFO	Stopped listening on port 60834
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660591327636	geckodriver	INFO	Listening on 127.0.0.1:61945
+1660591330741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilevw7Jcz"
+1660591331329	Marionette	INFO	Marionette enabled
+1660591331334	Marionette	INFO	Listening on port 61968
+Read port: 61968
+1660591331731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofilevw7Jcz\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660591350195	Marionette	INFO	Stopped listening on port 61968
+1660591390829	geckodriver	INFO	Listening on 127.0.0.1:62086
+1660591393938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofile6vpP92"
+1660591394391	Marionette	INFO	Marionette enabled
+1660591394395	Marionette	INFO	Listening on port 62108
+Read port: 62108
+1660591394641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofile6vpP92\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660591423809	Marionette	INFO	Stopped listening on port 62108
+1660591453914	geckodriver	INFO	Listening on 127.0.0.1:62237
+1660591456985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileLrdwj4"
+1660591457410	Marionette	INFO	Marionette enabled
+1660591457418	Marionette	INFO	Listening on port 62257
+Read port: 62257
+1660591457701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileLrdwj4\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660591473342	Marionette	INFO	Stopped listening on port 62257
+1660591494304	geckodriver	INFO	Listening on 127.0.0.1:62351
+1660591497388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileanvIV5"
+1660591497786	Marionette	INFO	Marionette enabled
+1660591497790	Marionette	INFO	Listening on port 62373
+Read port: 62373
+1660591498012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileanvIV5\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660591513480	Marionette	INFO	Stopped listening on port 62373
+1660591554728	geckodriver	INFO	Listening on 127.0.0.1:62500
+1660591557802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileJSGjtc"
+1660591558187	Marionette	INFO	Marionette enabled
+1660591558190	Marionette	INFO	Listening on port 62521
+Read port: 62521
+1660591558421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EgoBrain\\AppData\\Local\\Temp\\rust_mozprofileJSGjtc\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660591576133	Marionette	INFO	Stopped listening on port 62521
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
